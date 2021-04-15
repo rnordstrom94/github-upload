@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://pml:pml@staging-hello.picturemylife.se",
+    "chromeWebSecurity": false
+}
